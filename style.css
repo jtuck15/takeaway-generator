@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Kalam:700|Fredoka+One|Righteous&display=swap');
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1505826759037-406b40feb4cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1952&q=80");
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-family: Kalam;
+    font-weight: 700;
+    font-size: 4rem;
+    text-shadow: 1px 1px 4px #000;
+    margin-bottom: -15px;
+}
+
+p {
+    font-style: italic;
+    font-family: Righteous;
+    font-size: 1.2rem;
+    margin-bottom: 60px;
+    margin-top: 55px;
+    text-shadow: 1px 1px 4px #000;
+}
+
+#fade {
+    opacity: 0;
+}
+
+button {
+    font-family: "Fredoka One";
+    margin: 80px;
+    padding: 16px 25px;
+    border-radius: 12px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    box-shadow: 1px 1px 4px #000;
+}
+
+#chosenFood {
+    font-size: 3rem;
+    font-family: "Fredoka One";
+    font-weight: bold;
+    text-shadow: 1px 1px 4px #000;
+}
+
+hr {
+    width: 43%;
+}
